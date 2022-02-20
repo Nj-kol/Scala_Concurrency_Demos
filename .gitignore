@@ -2,7 +2,7 @@
 target/
 
 *.iml
-.idea/
+.idea/*
 *.iml
 target/
 project/target

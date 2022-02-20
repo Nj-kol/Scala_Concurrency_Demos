@@ -3,7 +3,7 @@ target/
 
 *.iml
 .bsp/
-.idea/
+.idea/*
 *.iml
 target/
 project/target
