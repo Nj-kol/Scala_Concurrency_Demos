@@ -15,4 +15,8 @@ class FutureRecoverSpec extends AnyFunSuite {
   test("recover With") {
     FutureRecovery.demoRecoverWith()
   }
+
+  test("fallback to") {
+    FutureRecovery.demoFallBackTo()
+  }
 }
